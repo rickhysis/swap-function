@@ -34,7 +34,7 @@ const [x, y] = xor(3, 2)
 ```
 Swap individual bits using XOR.
 ```
-import {xor} from 'swap-function'
+import {bitsXor} from 'swap-function'
 
 const [x, y] = bitsXor(3, 2. '0011')
 ```
